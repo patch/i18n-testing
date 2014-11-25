@@ -2,6 +2,10 @@
 
 Real-word international data for unit testing and QA.
 
+* [Personal Names](personal-names.tsv) — full names of people
+* [Business Names](business-names.tsv) — names of companies and organizations
+* [Place Names](place-names.tsv) — names of cities, towns, and other places
+
 ---
 
 © 2014 Nick Patch
