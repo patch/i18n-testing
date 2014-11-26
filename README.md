@@ -6,6 +6,13 @@ Real-word international data for unit testing and QA.
 * [Business Names](business-names.tsv) — names of companies and organizations
 * [Place Names](place-names.tsv) — names of cities, towns, and other places
 
+## Resources
+
+* [Personal Names around the World](http://www.w3.org/International/questions/qa-personal-names)
+  by Richard Ishida, W3C Internationalization (i18n) Activity
+* [Falsehoods Programmers Believe about Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
+  by Patrick McKenzie, Kalzumeus Software
+
 ---
 
 © 2014 Nick Patch
