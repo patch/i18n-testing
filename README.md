@@ -1,6 +1,6 @@
 # i18n testing data
 
-Real-word international data for unit testing and QA.
+Real-word international and diverse name data for unit testing and QA.
 
 * [Personal Names](personal-names.tsv) — full names of people
 * [Business Names](business-names.tsv) — names of companies and organizations
@@ -12,6 +12,13 @@ Real-word international data for unit testing and QA.
   by Richard Ishida, W3C Internationalization (i18n) Activity
 * [Falsehoods Programmers Believe about Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
   by Patrick McKenzie, Kalzumeus Software
+
+## TODO
+
+* Single word names
+* Names including non-BMP characters for Japanese and Chinese
+* Names in southeast Asian scripts
+* Cased names in Cherokee
 
 ---
 
