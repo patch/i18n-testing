@@ -22,7 +22,7 @@ Real-word international and diverse name data for unit testing and QA.
 
 ---
 
-© 2014–2015 Nick Patch
+© 2014–2015 Nova Patch
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
