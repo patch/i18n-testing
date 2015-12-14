@@ -12,6 +12,8 @@ Real-word international and diverse name data for unit testing and QA.
   by Richard Ishida, W3C Internationalization (i18n) Activity
 * [Falsehoods Programmers Believe about Names](http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/)
   by Patrick McKenzie, Kalzumeus Software
+* [I18nQA: Quality Assurance for Software Internationalization, Localization and Globalization](http://www.i18nqa.com/)
+  by Tex Texin, XenCraft
 
 ## TODO
 
